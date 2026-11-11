@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: tamatar-1111
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .

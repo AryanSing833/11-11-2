@@ -1,0 +1,346 @@
+{
+  "stats": {
+    "totalMessages": 46913,
+    "aryanMessages": 22730,
+    "tamatarMessages": 24183,
+    "start": "2026-09-09",
+    "end": "2026-11-11",
+    "dateSpanDays": 64,
+    "topConversationDay": {
+      "date": "2026-10-03",
+      "messages": 1744
+    },
+    "lateNightMessagesHours0to2": 16159
+  },
+  "memories": [
+    {
+      "id": "first-hello",
+      "category": "The Beginning",
+      "date": "2026-09-09",
+      "time": "00:44",
+      "title": "The very first hello",
+      "messages": [
+        [
+          "Aryan",
+          "Hello"
+        ],
+        [
+          "Tamatar",
+          "Hie"
+        ],
+        [
+          "Aryan",
+          "Okay let me clear"
+        ],
+        [
+          "Tamatar",
+          "What"
+        ],
+        [
+          "Aryan",
+          "Mai he hu dhruv bss telegram pe nhi rkhta mai apna asli naam"
+        ],
+        [
+          "Tamatar",
+          "Kya"
+        ]
+      ]
+    },
+    {
+      "id": "khushi-ji",
+      "category": "Soft Corner",
+      "date": "2026-09-09",
+      "time": "10:39",
+      "title": "Khushi ji, may I leave?",
+      "messages": [
+        [
+          "Aryan",
+          "Acha khushi ji \nAb humko izazat de"
+        ],
+        [
+          "Aryan",
+          "Humko jana pdega class hai"
+        ],
+        [
+          "Tamatar",
+          "Nhi na🫠"
+        ]
+      ]
+    },
+    {
+      "id": "night-owl",
+      "category": "Late Night Chronicles",
+      "date": "2026-09-14",
+      "time": "05:21",
+      "title": "Morning arrived before bedtime",
+      "messages": [
+        [
+          "Tamatar",
+          "Mrng hogyi h"
+        ],
+        [
+          "Aryan",
+          "Bola tha na good morning boluga"
+        ],
+        [
+          "Aryan",
+          "Utha diya kro tum 😂"
+        ],
+        [
+          "Tamatar",
+          "😂😂 kya samjh rkha h😒"
+        ],
+        [
+          "Aryan",
+          "Ek good night kissi aur good morning kissi 🫣"
+        ],
+        [
+          "Tamatar",
+          "Hehe"
+        ]
+      ]
+    },
+    {
+      "id": "split-screen",
+      "category": "Daily Dose of Chaos",
+      "date": "2026-10-08",
+      "time": "00:15",
+      "title": "Split-screen Tamatar time",
+      "messages": [
+        [
+          "Aryan",
+          "so mai split screen mai krne apni tamatar se baat kr rha hu"
+        ],
+        [
+          "Tamatar",
+          "😒😒"
+        ],
+        [
+          "Tamatar",
+          "Khana khaya tumne?"
+        ]
+      ]
+    },
+    {
+      "id": "good-morning",
+      "category": "The Tamatar Archives",
+      "date": "2026-10-08",
+      "time": "09:36",
+      "title": "A very Tamatar morning",
+      "messages": [
+        [
+          "Aryan",
+          "Good morning tamatar"
+        ],
+        [
+          "Tamatar",
+          "Mrnggg brooo"
+        ],
+        [
+          "Aryan",
+          "Tamatar bjo 😗"
+        ]
+      ]
+    },
+    {
+      "id": "pillow-fight",
+      "category": "Certified Idiots",
+      "date": "2026-10-16",
+      "time": "20:07",
+      "title": "A long-awaited pillow fight",
+      "messages": [
+        [
+          "Aryan",
+          "Itni dino baad tamatar 🥺"
+        ],
+        [
+          "Aryan",
+          "Pillow fight 😁"
+        ],
+        [
+          "Aryan",
+          "😏😏 hehehe mai vo gol wali se maaruga"
+        ]
+      ]
+    },
+    {
+      "id": "typing-roast",
+      "category": "The Roast Factory",
+      "date": "2026-10-17",
+      "time": "02:48",
+      "title": "Typing skills under review",
+      "messages": [
+        [
+          "Tamatar",
+          "Kush reho😂🤣 itni gandi typing krte ho ap😒😒"
+        ],
+        [
+          "Tamatar",
+          "Hehe"
+        ],
+        [
+          "Aryan",
+          "Hehehe"
+        ]
+      ]
+    },
+    {
+      "id": "broccoli",
+      "category": "The Tamatar Archives",
+      "date": "2026-10-27",
+      "time": "00:28",
+      "title": "Tamatar meets broccoli",
+      "messages": [
+        [
+          "Aryan",
+          "Tamatarrrr"
+        ],
+        [
+          "Tamatar",
+          "Yes broccoli"
+        ],
+        [
+          "Tamatar",
+          "Hehe"
+        ]
+      ]
+    },
+    {
+      "id": "ppt",
+      "category": "Daily Dose of Chaos",
+      "date": "2026-10-27",
+      "time": "20:47",
+      "title": "Teamwork, apparently",
+      "messages": [
+        [
+          "Tamatar",
+          "Yhi bnane m busy thi😂"
+        ],
+        [
+          "Tamatar",
+          "Ppt to tumse bnva ri😂"
+        ]
+      ]
+    },
+    {
+      "id": "birthday-cakes",
+      "category": "November Chapters",
+      "date": "2026-11-07",
+      "time": "10:41",
+      "title": "Four cakes. Obviously.",
+      "messages": [
+        [
+          "Tamatar",
+          "Aj sb meri psnd ka khana bn rha😂"
+        ],
+        [
+          "Tamatar",
+          "Abi to mene sandwich khaya"
+        ],
+        [
+          "Tamatar",
+          "Or lunch m dosa bn rha"
+        ],
+        [
+          "Tamatar",
+          "😗"
+        ]
+      ]
+    },
+    {
+      "id": "birthday-four-cakes",
+      "category": "November Chapters",
+      "date": "2026-11-07",
+      "time": "16:13",
+      "title": "The four-cake report",
+      "messages": [
+        [
+          "Tamatar",
+          "Aj pta"
+        ],
+        [
+          "Tamatar",
+          "Mene 4 cakes cut kre"
+        ],
+        [
+          "Aryan",
+          "Kya kya"
+        ],
+        [
+          "Tamatar",
+          "😗"
+        ]
+      ]
+    },
+    {
+      "id": "birthday-photo",
+      "category": "Birthday Corner",
+      "date": "2026-11-07",
+      "time": "23:07",
+      "title": "A little birthday-day confidence",
+      "messages": [
+        [
+          "Tamatar",
+          "To mene suit dal k dekha"
+        ],
+        [
+          "Tamatar",
+          "Makeup to kra hua tha"
+        ],
+        [
+          "Tamatar",
+          "Achi lgri thi"
+        ],
+        [
+          "Tamatar",
+          "To pic click krli"
+        ],
+        [
+          "Tamatar",
+          "Pic hi ni li"
+        ],
+        [
+          "Tamatar",
+          "Jo achi aayi"
+        ],
+        [
+          "Tamatar",
+          "Vhi bheji"
+        ],
+        [
+          "Aryan",
+          "😭"
+        ]
+      ]
+    },
+    {
+      "id": "last-chapter",
+      "category": "Recent Chapters",
+      "date": "2026-11-11",
+      "time": "00:30",
+      "title": "Still talking nonsense",
+      "messages": [
+        [
+          "Tamatar",
+          "Koi sexy ldka dhundhna pdega uske liye"
+        ],
+        [
+          "Aryan",
+          "😒"
+        ],
+        [
+          "Aryan",
+          "Andhi ho kya"
+        ],
+        [
+          "Tamatar",
+          "Hn tbi kch bi soch li thi"
+        ],
+        [
+          "Aryan",
+          "🤔 usse andhi hone ka kya mtlb"
+        ]
+      ]
+    }
+  ]
+}

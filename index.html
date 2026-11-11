@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#09090f">
+<meta name="description" content="11:11 · 11 November 2026 — A little universe called us. A personal archive for Khushi, from Aryan.">
+<title>11:11 · 11 November — A Little Universe Called Us</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@300;400;500;600;700&family=Great+Vibes&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="grain"></div><div class="cursor-dot" aria-hidden="true"></div>
+<div id="intro" class="intro">
+  <div class="intro-stars" id="introStars"></div>
+  <div class="intro-center">
+    <div class="intro-kicker">11 NOVEMBER 2026 · A SMALL UNIVERSE, MADE OF MESSAGES</div>
+    <div class="clock" id="introClock">11:09</div>
+    <div class="clock-label">11:11 · SOMEWHERE, IT'S ALWAYS OUR TIME</div>
+    <div class="intro-line" id="introLine">Somewhere between a thousand conversations...</div>
+    <button class="enter-btn" id="enterBtn">Enter my universe <span>↗</span></button>
+    <div class="intro-note">sound is optional · best explored slowly</div>
+  </div>
+</div>
+<div id="site" class="site is-hidden">
+<header class="nav">
+  <a class="brand" href="#home"><span>11:11</span><small>THE TAMATAR ARCHIVE</small></a>
+  <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
+  <nav id="navLinks"><a href="#story">Our story</a><a href="#museum">The museum</a><a href="#dictionary">Our language</a><a href="#gallery">Gallery</a><a href="#letter">A letter</a><a href="#eleven">11 November</a></nav>
+  <button class="sound-btn" id="soundBtn" aria-label="Toggle sound">♫ <span>Sound off</span></button>
+</header>
+<main>
+<section class="hero" id="home">
+  <div class="hero-orb"></div><div class="moon"></div><div class="constellation c1">✦　·　✧</div><div class="constellation c2">·　✦　·</div>
+  <div class="hero-content">
+    <p class="eyebrow reveal">11.11 EDITION · A LITTLE UNIVERSE CALLED US</p>
+    <h1 class="reveal">Some people just happen.<br><em>Some people become special.</em></h1>
+    <div class="hero-names reveal"><span>KHUSHI</span><b>×</b><span>ARYAN</span></div>
+    <p class="hero-sub reveal">A little chaos. A lot of conversations.<br>One very special Tamatar.</p>
+    <div class="hero-date reveal"><span>11:11</span><i>—</i> <b>11 NOVEMBER 2026</b></div>
+    <a class="scroll-cue" href="#story"><span></span>SCROLL TO EXPLORE</a>
+  </div><div class="hero-index">VOL. 01 <i>—</i> 09.09.26 / 11.11.26</div>
+</section>
+<section class="intro-copy section-pad">
+  <div class="section-label">01 / THE IDEA</div><div class="intro-copy-grid"><h2>Not a perfect story.<br><em>A real one.</em></h2><p>Somewhere between the hellos, the “hehehe”, the random updates, the teasing and the late-night conversations, this little archive happened. Not every page is a grand moment. Most are tiny. That's the point.</p></div>
+</section>
+<section id="story" class="story section-pad">
+  <div class="section-label">02 / OUR STORY</div><div class="section-heading"><h2>Pages from<br><em>our little timeline.</em></h2><p>Built from the messages in the archive.<br>September to November, 2026.</p></div>
+  <div class="timeline" id="timeline"></div>
+</section>
+<section class="stats-band"><div><strong>46,913</strong><span>messages in this little universe</span></div><div><strong>64</strong><span>days in the exported archive</span></div><div><strong>11:11</strong><span>the time that became a motif</span></div></section>
+<section id="museum" class="museum section-pad">
+  <div class="section-label">03 / THE WHATSAPP MUSEUM</div><div class="section-heading"><h2>Exhibits from<br><em>the chat archives.</em></h2><p>Actual excerpts. Original Hinglish. Zero invented dialogue.</p></div>
+  <div class="museum-layout"><aside class="museum-tabs" id="museumTabs"></aside><div class="chat-stage"><div class="chat-top"><span class="online-dot"></span><div><b id="chatCategory">The Tamatar Archives</b><small>selected moments · not the full chat</small></div><span class="chat-lock">PRIVATE / CURATED</span></div><div class="chat-title" id="chatTitle"></div><div class="chat-date" id="chatDate"></div><div class="chat-messages" id="chatMessages"></div><div class="chat-actions"><button class="outline-btn" id="anotherChat">Show me another conversation ↗</button><span id="chatCount"></span></div></div></div>
+</section>
+<section id="dictionary" class="dictionary section-pad">
+  <div class="section-label">04 / OUR SECRET LANGUAGE</div><div class="section-heading"><h2>A dictionary only<br><em>we would understand.</em></h2><p>Some entries are nicknames. Some are chat-born plot twists.</p></div>
+  <div class="word-grid" id="wordGrid"></div>
+</section>
+<section id="gallery" class="gallery-section section-pad">
+  <div class="section-label">05 / THE POLAROID GALLERY</div><div class="section-heading"><h2>Little moments,<br><em>waiting for their pictures.</em></h2><p>Real-photo placeholders for the memories only you two can fill in.</p></div>
+  <div class="polaroid-grid" id="galleryGrid"></div>
+  <p class="gallery-footnote">No fake photos. No AI faces. Replace the image paths in <code>js/gallery.js</code> when you're ready.</p>
+</section>
+<section id="memory" class="memory-section section-pad">
+  <div class="memory-visual"><div class="envelope" id="envelope"><div class="env-flap"></div><div class="env-seal">11:11</div><div class="env-paper">A little memory<br>for you.</div></div></div>
+  <div class="memory-copy"><div class="section-label">06 / THE RANDOM MEMORY MACHINE</div><h2>Pick a memory,<br><em>Tamatar.</em></h2><p>Somewhere in these messages is a tiny moment worth reopening. Pull one out of the archive.</p><button class="gold-btn" id="pickMemory">Open a memory ↗</button><div class="memory-result" id="memoryResult" aria-live="polite"></div></div>
+</section>
+<section id="letter" class="letter-section section-pad">
+  <div class="section-label">07 / A NOTE FROM ARYAN</div><div class="letter-wrap"><div class="letter-top">A LETTER, NOT A SPEECH <span>11.11.26</span></div><div class="letter-paper"><div class="letter-stamp">A</div><p class="handwritten">Dear Tamatar,</p><div id="letterText" class="letter-text"></div><button class="paper-btn" id="openLetter">Open the letter</button><div class="letter-sign">— Aryan <span>✦</span></div></div></div>
+</section>
+<section id="eleven" class="birthday-section section-pad">
+  <div class="birthday-glow"></div><div class="section-label">08 / THE 11 NOVEMBER EDITION</div><div class="birthday-content"><p class="eyebrow">11 NOVEMBER 2026 · 11:11</p><h2>One little date.<br><em>A whole universe of us.</em></h2><div class="date-emblem" id="elevenEmblem" aria-hidden="true"><span>11</span><i>:</i><span>11</span></div><p class="birthday-lead">For the conversations that made this date feel special. ❣️</p><p class="birthday-copy">This is an 11:11 page — a small pause to celebrate the timing, the messages, the chaos, and the person who made ordinary days feel worth saving.</p><button class="gold-btn" id="birthdayBtn">Open the 11:11 note ↗</button><div class="birthday-note" id="birthdayNote"></div><div class="cake-caption">11 November, 11:11 — a date worth keeping.</div></div>
+</section>
+<section id="wish" class="wish-section section-pad"><div class="wish-stars" id="wishStars"></div><div class="section-label">09 / THE 11:11 WISH</div><div class="wish-content"><div class="wish-date">11 NOVEMBER 2026</div><div class="wish-clock">11:11</div><h2>Make a wish,<br><em>at 11:11.</em></h2><p>For all the little things still waiting to happen.</p><button class="wish-btn" id="wishBtn">Make your wish ✦</button><div id="wishReveal" class="wish-reveal"></div></div></section>
+<section class="remember-section section-pad"><div class="section-label">10 / THINGS THE CHAT REMEMBERS</div><div class="section-heading"><h2>Little details.<br><em>Very specific evidence.</em></h2><p>Not personality guesses — just things the messages actually show.</p></div><div class="detail-grid">
+  <article><span>01</span><h3>“Broccoli” is canon.</h3><p>On 27 October, “Tamatarrrr” got the reply: “Yes broccoli”. An unexpected vegetable-based alliance.</p></article>
+  <article><span>02</span><h3>November has plot twists.</h3><p>The latest pages of the archive are full of quick comebacks, random updates, and exactly the kind of chaos this universe runs on.</p></article>
+  <article><span>03</span><h3>Morning can be 5:21 AM.</h3><p>On 14 September, “Mrng hogyi h” arrived while the conversation was still running.</p></article>
+  <article><span>04</span><h3>Typing gets reviewed.</h3><p>“Kush reho😂🤣 itni gandi typing krte ho ap😒😒” — a direct performance assessment.</p></article>
+  <article><span>05</span><h3>“Khushi ji” exists.</h3><p>The polite version makes an appearance in the earliest day of the archive.</p></article>
+  <article><span>06</span><h3>Split-screen multitasking.</h3><p>Aryan described chatting with “apni tamatar” in split screen. Priorities, clearly.</p></article>
+</div></section>
+<section class="finale section-pad"><div class="finale-stars"></div><p class="eyebrow">THE LAST PAGE (FOR NOW)</p><h2>To more random conversations.<br>More laughter. More little moments.<br><em>More days of annoying each other.</em></h2><div class="final-1111">11:11</div><p>Somewhere in this enormous universe,<br>I'm glad our paths crossed.</p><small>Made with love, madness and an unreasonable amount of screen time.</small><div class="signature">— Aryan Singh</div><button class="outline-btn" id="replayBtn">↺ Replay our little universe</button></section>
+</main>
+<footer><span>11:11 — THE TAMATAR ARCHIVE</span><span>MADE BY ARYAN · 11 NOV 2026</span></footer>
+</div>
+<div class="lightbox" id="lightbox" aria-hidden="true"><button id="closeLightbox" aria-label="Close image">×</button><img id="lightboxImg" alt=""><p id="lightboxCaption"></p></div>
+<script src="js/memories.js"></script><script src="js/timeline.js"></script><script src="js/gallery.js"></script><script src="js/main.js"></script>
+</body></html>
